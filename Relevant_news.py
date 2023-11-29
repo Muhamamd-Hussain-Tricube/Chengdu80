@@ -45,7 +45,7 @@ relevent_stocks = get_stock("/Users/hussain/Desktop/code/Chengdu80/constituents_
 
 
 
-subscription_key = "9c1b971838974a3fa887d33b520fe528"
+subscription_key = "API key"
 search_term = relevent_stocks
 search_url = "https://api.bing.microsoft.com/v7.0/news/search"
 
